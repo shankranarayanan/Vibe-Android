@@ -1,0 +1,6 @@
+{
+  "name": "Dukan Adambakkam Blueprint",
+  "description": "Comprehensive Android Java Architecture Blueprint and Interactive Playground for a hyper-local pamphlet, menu, and catalog directory app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
